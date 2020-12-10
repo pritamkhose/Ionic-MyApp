@@ -1,2 +1,2 @@
 # myApp
- myApp is ionic hello world project
+ It's is ionic hello world project
